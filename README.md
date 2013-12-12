@@ -1,4 +1,6 @@
 brain
 =====
 
-Google Glass with hardware
+Controlling Google Glass with NeuroSky's MindWave Headset
+
+Note: Android project now requires GDK
